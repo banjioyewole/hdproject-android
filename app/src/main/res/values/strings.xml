@@ -1,0 +1,368 @@
+<resources>
+    <string name="app_name">Efarrari</string>
+    <string name="app_shortnmae">Efarrari</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_supreme">Supreme</string>
+    <string name="action_adfree">Remove Ads</string>
+    <string name="action_rate">Rate &amp; Review</string>
+    <string name="action_share">Share @Efarrari HD</string>
+    <string name="action_follow">Follow on Instagram</string>
+    <string name="action_search">Search</string>
+    <string name="no_walls">No Wallpapers.</string>
+    <string name="about_licenses">About &amp; Licenses</string>
+
+    <string name="banner_ad_perfecto_id">ca-app-pub-3523265298684571/5574192641</string>
+    <string name="banner_ad_supreme_id">ca-app-pub-3523265298684571/7050925847</string>
+
+
+
+
+    <string name="title_activity_hub">HD Hub</string>
+    <string name="MbPierSet">pier_full</string>
+    <string name="MbPier">MB Pier</string>
+    <string name="Model">Model</string>
+    <string name="canon">Canon EOS 60D</string>
+    <string name="ipFire">iPhone 5</string>
+    <string name="crespoWiMAX">Nexus S 4G</string>
+    <string name="hammerhead">Nexus 5</string>
+    <string name="sgs4">Galaxy S 4</string>
+    <string name="taken">Taken</string>
+    <string name="Res">Resolution</string>
+    <string name="High">18 MegaPixels</string>
+    <string name="Ok">8 MegaPixels</string>
+    <string name="Low">5 MegaPixels</string>
+    <string name="high">18 MegaPixels</string>
+    <string name="ok">8 MegaPixels</string>
+    <string name="low">5 MegaPixels</string>
+    <string name="landingsR">6 MegaPixels</string>
+    <string name="Feb">February 9, 2013</string>
+    <string name="nexus">Nexus</string>
+    <string name="na">-</string>
+    <string name="uLow">2 MegaPixels</string>
+    <string name="Surfers">Surfers</string>
+    <string name="surfersT">May 30, 2012</string>
+    <string name="SurfersR">2 MegaPixels</string>
+    <string name="treesTitle">CA Scene</string>
+    <string name="treesT">July 7, 2013</string>
+    <string name="title_activity_big">big</string>
+    <string name="Home">Image to be Set to wallpaper</string>
+    <string name="title_activity_hub_valible">efarrari</string>
+    <string name="TwilightFlight">Twilight Flight</string>
+    <string name="like">Likes</string>
+    <string name="Price">Price</string>
+    <string name="Free">FREE</string>
+    <string name="tierOne">$0.99</string>
+    <string name="owned">OWNED</string>
+    <string name="tierTwo">$0.99</string>
+    <string name="tierThree">$0.99</string>
+    <string name="sp">27 - 95</string>
+    <string name="tf">47 – 72</string>
+    <string name="spT">Apr 12\' - Feb 13\'</string>
+    <string name="tfT">Jan 13\' - Feb 13\'</string>
+    <string name="swagPackT">Apr 2012 - Feb 2013</string>
+    <string name="hub">\@efarrari Hub</string>
+    <string name="luster">Luster Pack</string>
+    <string name="SunRush">Sun Rush</string>
+    <string name="sr">62 - 320</string>
+    <string name="Epos">Epos Pack</string>
+    <string name="ep">74 - 84</string>
+    <string name="epT">Jun 13\' - Jul 13\'</string>
+    <string name="srT">Feb 13\' - May 13\'</string>
+    <string name="lp">74-117</string>
+    <string name="lpT">Feb 13\' - May 13\'</string>
+    <string name="believe">Believe</string>
+    <string name="bl">62 - 84</string>
+    <string name="blT">Feb 13\' - Mar 13\'</string>
+    <!--<string name="essence">Essence Pack</string>-->
+    <string name="es">40-79</string>
+    <string name="esT">Jan 13\' - June 13\'</string>
+    <string name="title_activity_swag_pack">Swag Pack</string>
+    <string name="elect">Electric</string>
+    <string name="electT">Dec 25, 2012</string>
+    <string name="sevenfour">747</string>
+    <string name="sevenfourT">Dec 25, 2012</string>
+    <string name="glow">Glow</string>
+    <string name="ninefour">1941</string>
+    <string name="mbpier">Sun Rush</string>
+    <string name="glowT">Dec 29, 2012</string>
+    <string name="Gaze">Gaze Pack</string>
+    <string name="gp">50 - 93</string>
+    <string name="gpT">Jan 13\' - Mar 13\'</string>
+    <string name="lax">LAX</string>
+    <!--<string name="ninefour">1940\'s</string>-->
+    <string name="ninefourT">Dec 13, 2012</string>
+    <string name="mbpierT">Feb 28, 2013</string>
+    <string name="title_activity_sans_b">SansB</string>
+    <string name="status">Status</string>
+    <string name="title_activity_long_press">\@efarrari Walls</string>
+    <string name="title_activity_sun_rush">Sun Rush</string>
+    <string name="datsun">Dat Sun</string>
+    <string name="datsunT">May 7, 2013</string>
+    <string name="tang">Tang</string>
+    <string name="tangT">June 4, 2013</string>
+    <string name="grass">Grass</string>
+    <string name="grassT">March 24, 2013</string>
+    <string name="amg">AMG</string>
+    <string name="amgT">March 2, 2013</string>
+    <string name="leaflet">Leaflet</string>
+    <string name="leafletT">Feb 21, 2013</string>
+    <string name="title_activity_epos_pack">Epos Pack</string>
+    <string name="cascene">CA Scene</string>
+    <string name="casceneT">July 8, 2013</string>
+    <string name="epos">Epos</string>
+    <string name="eposT">June 24, 2013</string>
+    <string name="guard">Guard</string>
+    <string name="guardT">June 25, 2013</string>
+    <string name="vista">Vista</string>
+    <string name="vistaT">July 1, 2013</string>
+    <string name="soltwo">Sol 2</string>
+    <string name="soltwoT">June 22, 2013</string>
+    <string name="title_activity_luster_pack">Luster Pack</string>
+    <string name="mbca">The Manhattan</string>
+    <string name="mbcaT">Feb 13, 2013</string>
+    <string name="dl">Deep Light</string>
+    <string name="dlT">Feb 9, 2013</string>
+    <string name="spectrum">Spectrum</string>
+    <string name="spectrumT">Mar 12, 2013</string>
+    <string name="onwatch">On Watch</string>
+    <string name="onwatchT">Feb 10, 2013</string>
+    <string name="life">Flaire</string>
+    <string name="lifeT">March 6, 2013</string>
+    <string name="title_activity_believe_pack">Believe</string>
+    <string name="playavistaT">Mar 10, 2013</string>
+    <string name="playavista">Playa Vista</string>
+    <string name="surfered">Surfers</string>
+    <string name="surferedT">Feb 25, 2013</string>
+    <string name="balanceT">Feb 26, 2013</string>
+    <string name="seagull">Seagull</string>
+    <string name="seagullT">Feb 24, 2013</string>
+    <string name="trublue">True Blue</string>
+    <string name="trublueT">Feb 19, 2013</string>
+    <string name="balance">Balance</string>
+    <string name="title_activity_gaze_pack">Gaze Pack</string>
+    <string name="gaze">Gaze</string>
+    <string name="gazeT">Mar 4, 2013</string>
+    <string name="california">California</string>
+    <string name="californiaT">Jan 5, 2012</string>
+    <string name="footprint">Footprints</string>
+    <string name="footprintT">Jan 2, 2013</string>
+    <string name="palm">Palm</string>
+    <string name="palmT">Mar 3, 2013</string>
+    <string name="hollywood">Hollywood</string>
+    <string name="hollywoodT">Jan 4, 2013</string>
+    <string name="title_activity_essence_pack">Essence</string>
+    <string name="essence">Essence</string>
+    <string name="essenceT">Jan 1, 2013</string>
+    <string name="beachcity">Beach City</string>
+    <string name="beachcityT">Jan 1, 2013</string>
+    <string name="mist">Mist</string>
+    <string name="mistT">June 24, 2013</string>
+    <string name="leaves">Fall</string>
+    <string name="leavesT">Jan 10, 2013</string>
+    <string name="may">May</string>
+    <string name="mayT">January 13, 2013</string>
+    <string name="title_activity_twilight_flight_pack">Twilight Flight</string>
+    <string name="f1">Flight One</string>
+    <string name="f1T">Feb 6, 2013</string>
+    <string name="f2">Flight Two</string>
+    <string name="f2T">Jan 2, 2013</string>
+    <string name="rt">Red Tree</string>
+    <string name="rtT">Jan 29, 2013</string>
+    <string name="t3">Twilight Three</string>
+    <string name="t3T">Feb 1, 2013</string>
+    <string name="t2">Twilight Two</string>
+    <string name="t2T">Feb 2, 2013</string>
+    <string name="t1">Twilight One</string>
+    <string name="t1T">Jan 30, 2013</string>
+    <string name="info">Any Suggestions, Drop a comment? Love this app? Rate it In the Play Store Below!</string>
+    <string name="verco">v2.9.5</string>
+    <string name="qc">Questions? Comments?</string>
+    <string name="email">enzoniummobile\@gmail.com</string>
+    <string name="help">Need Help? Click here!</string>
+    <string name="helpAOne">Click a pack in the Avalible tab to buy. Once owned, Navigate to Owned tab to use. Clicking a pack that is owned in the Avalible tab will direct you to the Owned tab. </string>
+    <string name="helpATwo">You can also hold down on the home screen to get to the Packs you own.</string>
+    <string name="helpAThree">Click the \'Set\' arrow in the top corner of the bar after you\'ve selected your Wall.</string>
+    <string name="maspacks">Go to \@efarrari Hub</string>
+    <string name="TwilightFlightF">Twilight Flight Pack</string>
+    <string name="title_activity_superpac">Superpac</string>
+    <string name="fpc">24 - 36</string>
+    <string name="fp">Far Sun Pack</string>
+    <string name="fsd">Aug 13\' - Nov 13\'</string>
+    <string name="farsun">Far Sun</string>
+    <string name="fortysskyline">40\'s Skyline</string>
+    <string name="icarus">Icarus</string>
+    <string name="gradial">G\-Radial</string>
+    <string name="orangelight">Orange Light</string>
+    <string name="farsunT">September 12, 2013</string>
+    <string name="fortysskylineT">August 31, 2013</string>
+    <string name="icarusT">August 31, 2013</string>
+    <string name="gradialT">November 12, 2013</string>
+    <string name="orangelightT">November 18, 2013</string>
+    <string name="title_activity_class_of2014">HD Hub</string>
+    <string name="title_activity_flux_pack">FluxPack</string>
+    <string name="flux">Flux</string>
+    <string name="intensity">Intensity</string>
+    <string name="nineseven">1977</string>
+    <string name="mblp">MB-LP</string>
+    <string name="pier">MB Pier</string>
+    <string name="landings">Landings</string>
+    <string name="fluxT">August 30, 2013</string>
+    <string name="ninesevenT">February 9, 2013</string>
+    <string name="landingsT">December 22, 2013</string>
+    <string name="infinity">Infinity</string>
+    <string name="lumiens">Lumiens</string>
+    <string name="lifeequal">Life</string>
+    <string name="surf">Surf</string>
+    <string name="primo">Primo Pack</string>
+    <string name="mountains">Mountains</string>
+    <string name="mountainsT">December 2011</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="onethree">13\' Cover</string>
+    <string name="onethreeport">13\' Cover Center</string>
+    <string name="onefourport">14\' Cover Center</string>
+    <string name="onefour">14\' Cover</string>
+    <string name="onefourT">2014</string>
+    <string name="onethreeT">2013</string>
+
+    <string name="set_as">Set as</string>
+
+
+       <string name="about_body">
+        Welcome to efarrari wallpapers hd.
+WHD exists to provide access to high resolution versions of images featured on @efarrari’s instagram feed.
+\n
+5.0.0 primo\n
+Introducing web integration\n
+Decrease in application size\n
+memory management Enhancements\n
+completley redesigned interface\n
+\n
+Enzonium Mobile 2016\n\n
+
+The following sets forth attribution notices for third party software that may be used within @efarrari wallpapers hd. We thank the open source community for their contributions.
+    </string>
+
+
+    <string name="apache_license">
+        Copyright &#169; 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+    </string>
+
+<string name="picasso_license">
+    Copyright 2013 Square, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+</string>
+
+    <string name="parraloid_license">
+       Copyright Christopher Jenkins
+
+        Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+    </string>
+
+    <string name="nihart_parralax_license">
+
+        The MIT License (MIT)
+
+Copyright &#169; 2014 Nir Hartmann
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+    </string>
+
+    <string name="recycler">@string/apache_license</string>
+    <string name="appcompat">@string/apache_license</string>
+    <string name="design">@string/apache_license</string>
+
+    <string name="nispok_snackbar_license">
+
+        The MIT License (MIT)
+
+Copyright &#169; 2015 William Mora
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions
+of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+    </string>
+
+<string name="volley_license">
+
+    Copyright &#169; 2014,2015,2016 Xiaoke Zhang
+Copyright &#169; 2011 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+</string>
+
+</resources>
+

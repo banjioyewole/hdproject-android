@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".about.About"
+    android:scrollbars="none"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+        <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/toolbar"
+            android:background="#000"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            android:layout_height="56dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/icon"
+                    android:layout_marginRight="12dp"
+                    android:layout_width="28dp"
+                    android:layout_centerVertical="true"
+                    android:layout_height="28dp"
+                    android:background="@drawable/ic_arrow_back"/>
+
+                <TextView
+                    android:layout_centerVertical="true"
+                    android:id="@+id/toolbar_text"
+                    android:textSize="20sp"
+                    android:textColor="#fff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/icon"
+                    android:text="@string/about_licenses"
+                    />
+
+            </RelativeLayout>
+
+
+        </android.support.v7.widget.Toolbar>
+
+<!--TODO: Override serif font-->
+<ScrollView
+    android:layout_below="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:scrollbars="none"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/containx"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+
+<!--About-->
+        <LinearLayout
+            android:layout_margin="16dp"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/licenseBacking"
+            android:layout_height="wrap_content">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:background="@color/titleBacking"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="serif"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="About"
+                    android:textAllCaps="true"
+
+                    />
+
+            </FrameLayout>
+
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="serif"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/about_body"
+
+                    />
+
+            </FrameLayout>
+        </LinearLayout>
+
+        <!--rec, ApCmpt, des-->
+        <LinearLayout
+            android:layout_margin="16dp"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/licenseBacking"
+            android:layout_height="wrap_content">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:background="@color/titleBacking"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="serif"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Recycler View, App Compat v7, and Design Libraries"
+                    android:textAllCaps="true"
+
+                    />
+
+            </FrameLayout>
+
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="monospace"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/apache_license"
+
+                    />
+
+            </FrameLayout>
+        </LinearLayout>
+
+        <!--Volley-->
+        <LinearLayout
+            android:layout_margin="16dp"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/licenseBacking"
+            android:layout_height="wrap_content">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:background="@color/titleBacking"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="serif"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Volley"
+                    android:textAllCaps="true"
+
+                    />
+
+            </FrameLayout>
+
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="monospace"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/volley_license"
+
+                    />
+
+            </FrameLayout>
+        </LinearLayout>
+
+        <!--Picasso-->
+        <LinearLayout
+            android:layout_margin="16dp"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/licenseBacking"
+            android:layout_height="wrap_content">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:background="@color/titleBacking"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="serif"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Picasso"
+                    android:textAllCaps="true"
+                    />
+
+            </FrameLayout>
+
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="monospace"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/picasso_license"
+
+                    />
+
+            </FrameLayout>
+        </LinearLayout>
+
+        <!--Nih Snack-->
+        <LinearLayout
+            android:layout_margin="16dp"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/licenseBacking"
+            android:layout_height="wrap_content">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:background="@color/titleBacking"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="serif"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nispok Snackbar"
+                    android:textAllCaps="true"
+
+                    />
+
+            </FrameLayout>
+
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_margin="16dp"
+                    android:typeface="monospace"
+                    android:textColor="@android:color/white"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/nispok_snackbar_license"
+
+                    />
+
+            </FrameLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>
+</RelativeLayout>
+
+
+
+
+
+
+

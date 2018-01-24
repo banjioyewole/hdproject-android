@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="accent">#fac400</color>
+    <color name="dark_accent">#997e00</color>
+    <color name="primary_text_color">#f0f0f0</color>
+    <color name="secondary_text_color">#dfdfdf</color>
+
+    <color name="secondary_glyph_color">#e5e6eb</color>
+
+    <color name="primary_dark">#0f60ba</color>
+    <color name="primary">#218ee3</color>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+
+    <color name="titleBacking">#1e1e1e</color>
+    <color name="licenseBacking">#5e5e5e</color>
+
+    <color name="transparent">#000f60ba</color>
+</resources>

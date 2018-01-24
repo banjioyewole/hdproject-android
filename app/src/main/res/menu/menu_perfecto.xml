@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_search" android:title="@string/action_search"
+        android:orderInCategory="100" android:icon="@drawable/ic_search_white_24dp" app:showAsAction="always" />
+    <item android:id="@+id/action_adfree" android:title="@string/action_adfree"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_follow" android:title="@string/action_follow"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_rate" android:title="@string/action_rate"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_share" android:title="@string/action_share"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_about" android:title="@string/about_licenses"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

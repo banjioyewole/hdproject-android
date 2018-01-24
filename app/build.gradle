@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.enzonium.efarrariwalls"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 44
+        versionName "5.1 GRIGIOT"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile "com.squareup.picasso:picasso:2.5.2"
+//    compile project (':paralloidviews')
+//    compile project (':ParallaxScroll')
+    compile files('libs/TapForTap.jar')
+    compile 'com.android.support:recyclerview-v7:22.2.+'
+    compile 'com.android.support:appcompat-v7:22.1.1'
+    compile 'com.android.support:design:22.2.1'
+    compile 'com.nispok:snackbar:2.10.+'
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+    compile 'com.google.firebase:firebase-ads:9.0.0'
+
+}
+
+apply plugin: 'com.google.gms.google-services'
+
+
+
